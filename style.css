@@ -13,9 +13,7 @@ body{
 a:hover{
 	color:LightCoral;
 }
-#name1,#name2,#name3,#name4{
-	color:LightSeaGreen;
-}
+
 /* let the navigation bar look good */
 ul.navbar{
   list-style-type:none;
