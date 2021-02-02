@@ -49,9 +49,7 @@ span.bar{
 .references{
 	text-align: center;
 }
-#art,#art2{
-	padding: 35px;
-}
+
 /* change the background color of likes column*/
 #like, #like1,#like2,#like3,#like4,#like5{
 	background-color:PaleGreen;
