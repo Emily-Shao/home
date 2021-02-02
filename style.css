@@ -13,7 +13,7 @@ body{
 a:hover{
 	color:LightCoral;
 }
-#name{
+#name1,#name2,#name3,#name4{
 	color:LightSeaGreen;
 }
 /* let the navigation bar look good */
