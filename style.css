@@ -1,0 +1,69 @@
+/* to clearly display the title of each page */
+#top{
+	text-align: center;
+	font-size: 53px;
+}
+h1{
+	color:LightSeaGreen;
+}
+body{
+	background-color:Ivory;
+}
+/* change the color of the link when you hover over it */
+a:hover{
+	color:LightCoral;
+}
+#name{
+	color:LightSeaGreen;
+}
+/* let the navigation bar look good */
+ul.navbar{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  text-align:center;
+  background-color:LemonChiffon;
+  
+}
+li.navbar{
+  display:inline;
+}
+li a{
+	text-align: center;
+	padding: 14px 16px;
+}
+span.bar{
+	font-size:30px;
+}
+/* change the color of the summaries */
+#summary{
+	color:FireBrick;
+}
+#show{
+	font-size: 35px;
+}
+/* change the color of the "go up" button */
+#teleport{
+	background-color: LightSteelBlue;
+}
+/* align the references */
+.references{
+	text-align: center;
+}
+#art{
+	padding: 35px;
+}
+/* change the background color of likes column*/
+#like{
+	background-color:PaleGreen;
+}
+/* same thing but for dislikes */
+#dislike{
+	background-color: Tomato;
+}
+/* give a single border to the table */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding:5px;
+}
