@@ -34,10 +34,10 @@ span.bar{
 	font-size:30px;
 }
 /* change the color of the summaries */
-#summary{
+#summary1,#summary2,#summary3,#summary4,#summary5,#summary6,#summary7{
 	color:FireBrick;
 }
-#show{
+#show1,#show2,#show3,#show4,#show5,#show6,#show7{
 	font-size: 35px;
 }
 /* change the color of the "go up" button */
